@@ -20,3 +20,66 @@ $accent: #2077b2;
 @import "icons";
 @import "syntax";
 @import "responsive";
+@import "susy";
+
+$susy: ( 
+    columns: 12,
+    gutters: .25,
+    gutter-position: inside
+);
+
+.row {
+   @include container(80em);
+}
+
+.column1 {
+    @include span(4);
+    border-right: 2px dashed black;
+}
+
+.column2 {
+    @include span(4);
+    border-right: 2px dashed black;
+}
+
+.column3 {
+    @include span(4);
+}
+
+.site-nav {
+    h1 {
+        color: red;
+    }
+
+    h1 a {
+        color: red;
+        &:hover { color: blue; }
+    }
+}
+
+.content {
+    background: #339933;
+}
+
+article {
+    background-image: url(/images/bamboo.png);
+    background-repeat: no-repeat;
+}
+
+#top-links {
+    padding-left: 150px;
+    padding-top: 40px;
+    font-size: 24px;
+
+    a {
+        color: red;
+    }
+    a:hover {
+        color: #c0ffee;
+    }
+}
+
+.site-footer {
+    background: #77ee77;
+}
+
