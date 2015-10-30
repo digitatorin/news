@@ -36,7 +36,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://digitator.in
+url:         http://digitator.in/news
 source:      .
 destination: ./_site
 plugins:     ./_plugins
