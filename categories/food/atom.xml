@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: food | ]]></title>
+  <link href="http://digitator.in/news/categories/food/atom.xml" rel="self"/>
+  <link href="http://digitator.in/news/"/>
+  <updated>2015-11-03T08:20:01+00:00</updated>
+  <id>http://digitator.in/news/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="https://github.com/recurser/jekyll-plugins">Recurser</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Whats the beef?]]></title>
+    <link href="http://digitator.in/news/food/2015/10/26/Whats-the-beef/"/>
+    <updated>2015-10-26T00:00:00+00:00</updated>
+    <id>http://digitator.in/news/food/2015/10/26/Whats-the-beef</id>
+    <content type="html"><![CDATA[<p>The forcible shutting of butcher shops and banning of beef through threat of violence means simply eating beef has become an assertion of our individual liberty or freedom.</p>
+
+<p>At the same time there is a global movement calling for the ban of the meat industry citing it as one of the big contributors to global warming.</p>
+
+<p>We intend to look closer into this issue and try and understand the specifics of how an animal’s flatulence is measured and how much pollution the Indian meat industry might be contributing and how that compares to the emissions of other global industries like war, transport and consumer goods?</p>
+
+<p>If climate change is a reality and the likelihood of catastrophic local changes in weather patterns, crop production and other food sources are increased, then rather than banning meat would it make more sense to look to diversify food sources and try and increase the kinds of foods that people especially the marginalized have access to?</p>
+
+<p>Over the course of the next few months Joice and I hope to dive into and understand meat both locally and globally. <a href="http://digitator.in/news/meat/">Meat</a></p>
+]]></content>
+  </entry>
+  
+</feed>
